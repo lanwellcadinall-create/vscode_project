@@ -1,0 +1,40 @@
+
+## **Файл 7: .gitignore**
+```gitignore
+# Директории окружения и кэша
+venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Файлы Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+error.log
+
+# Файлы зависимостей
+.python-version
+pip-selfcheck.json
+Pipfile.lock
+poetry.lock
+
+# Файлы проекта
+.env
+*.db
+*.sqlite3
+
+# Логи приложения (путь из документации)
+/var/www/backend/logs/
