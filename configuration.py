@@ -1,7 +1,7 @@
 # configuration.py
 
-# Базовый URL API Яндекс.Самокат (замените {id} на актуальный ID вашего стенда)
-URL_SERVICE = "https://{id}.serverhub.praktikum-services.ru"
+# Базовый URL API Яндекс.Самокат
+URL_SERVICE = "https://db12b8e4-023a-4821-9bfe-3590adfbd328.serverhub.praktikum-services.ru/"
 
 # Пути к эндпоинтам API
 CREATE_ORDER_PATH = "/api/v1/orders"              # Создание заказа

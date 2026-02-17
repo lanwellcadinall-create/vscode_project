@@ -11,7 +11,7 @@
 
 ## Документация API
 Документация доступна после запуска стенда по адресу:
-`https://{id}.serverhub.praktikum-services.ru/docs/`
+`https://db12b8e4-023a-4821-9bfe-3590adfbd328.serverhub.praktikum-services.ru/`
 
 ## Установка и запуск
 
